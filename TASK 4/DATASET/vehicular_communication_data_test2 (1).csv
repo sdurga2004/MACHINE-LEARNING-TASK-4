@@ -1,0 +1,4 @@
+channel_conditions,traffic_requirements,modulation_and_coding_scheme
+0.6,low,BPSK
+0.7,medium,64-QAM
+0.1,low,BPSK
